@@ -1,5 +1,5 @@
 ---
-archivesPage: true
+archivesPage: false
 title: 博客文章
 permalink: /blog/
 article: false

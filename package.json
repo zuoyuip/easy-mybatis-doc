@@ -1,5 +1,5 @@
 {
-  "name": "theme-vdoing-doc",
+  "name": "easy-mybatis-doc",
   "version": "1.0.0",
   "scripts": {
     "dev": "vuepress dev docs",
@@ -21,6 +21,5 @@
     "vuepress-plugin-zooming": "^1.1.7",
     "vuepress-theme-vdoing": "^1.8.6",
     "yamljs": "^0.3.0"
-  },
-  "dependencies": {}
+  }
 }
