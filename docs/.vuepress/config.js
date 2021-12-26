@@ -23,26 +23,19 @@ module.exports = {
       { text: '首页', link: '/' },
       {
         text: '指南', link: '/pages/a2f161/', items: [
-          { text: '主题初衷与诞生', link: '/pages/52d5c3/' },
+          { text: '框架初衷与诞生', link: '/pages/52d5c3/' },
           { text: '介绍', link: '/pages/a2f161/' },
           { text: '快速上手', link: '/pages/793dcb/' },
-          { text: '目录结构', link: '/pages/2f674a/' },
-          { text: '核心配置和约定', link: '/pages/33d574/' },
-          { text: '自动生成front matter', link: '/pages/088c16/' },
-          { text: 'Markdown 容器', link: '/pages/d0d7eb/' },
-          { text: 'Markdown 中使用组件', link: '/pages/197691/' },
-         
+          { text: '配置说明', link: '/pages/2f674a/' },
+          { text: '统一接口约定', link: '/pages/33d574/' },
+          { text: 'JSON对象的使用', link: '/pages/088c16/' },
         ]
       },
       {
-        text: '配置', link: '/pages/a20ce8/', items: [
-          { text: '主题配置', link: '/pages/a20ce8/' },
-          { text: '首页配置', link: '/pages/f14bdb/' },
-          { text: 'front matter配置', link: '/pages/3216b0/' },
-          { text: '目录页配置', link: '/pages/54651a/' },
-          { text: '添加摘要', link: '/pages/1cc523/' },
-          { text: '修改主题颜色和样式', link: '/pages/f51918/' },
-          { text: '评论栏', link: '/pages/ce175c/' },
+        text: '主要接口', link: '/pages/a20ce8/', items: [
+          { text: 'MapperRepository', link: '/pages/a20ce8/' },
+          { text: 'JsonObject', link: '/pages/f14bdb/' },
+          { text: 'JsonArray', link: '/pages/3216b0/' }
         ]
       },
       { text: '💖支持', link: '/pages/1b12ed/' },
