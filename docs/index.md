@@ -2,18 +2,21 @@
 home: true
 heroImage: https://www.zuoyu.top/avatar
 heroText: easy-mybatis
-tagline: 🚀一个把Mybatis操作简化至极致的框架
+tagline: 一个把Mybatis操作简化至极致的框架
 actionText: 开始使用 →
 actionLink: /pages/a2f161/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
   - title: 更便捷
-    details: 摒弃传统mybatis的model、xml、dao数据库操作模式，避繁就简，快速开发
+    details: 一个接口、一个注解、两个对象，便可完成对数据库进行常用操作，避繁就简，快速开发
+    link: /pages/a2f161
   - title: 更高效
-    details: 采用预编译SQL，拒绝反射生成SQL，性能更高效
+    details: 采用预编译SQL，拒绝运行期间反射生成SQL，性能更高效
+    link: /pages/a2f161
   - title: 无侵入
-    details: 对已有工程不做任何修改，仅仅是简化了开发阶段对数据库的操作
+    details: 只是对Mybatis-Spring的增强插件，对已有工程不做任何修改，仅仅简化开发阶段对数据库的操作
+    link: /pages/a2f161
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: none
