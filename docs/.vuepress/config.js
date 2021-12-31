@@ -26,8 +26,7 @@ module.exports = {
           { text: '介绍', link: '/pages/a2f161/' },
           { text: '快速上手', link: '/pages/793dcb/' },
           { text: '配置说明', link: '/pages/2f674a/' },
-          { text: '统一约定', link: '/pages/33d574/' },
-          { text: 'JSON对象的使用', link: '/pages/088c16/' },
+          { text: '统一约定', link: '/pages/33d574/' }
         ]
       },
       {
