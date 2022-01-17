@@ -12,7 +12,7 @@ module.exports = {
   // base: '/', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
   head: [ // 注入到页面<head> 中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
     ['link', { rel: 'icon', href: '/img/favicon.ico' }], //favicons，资源放在public文件夹
-    ['meta', { name: 'keywords', content: 'vuepress,theme,blog,vdoing' }],
+    ['meta', { name: 'keywords', content: 'mybatis,Mybatis,easy-mybatis,EasyMybatis,SpringMybatis' }],
     ['meta', { name: 'theme-color', content: '#11a8cd' }] // 移动浏览器主题颜色
   ],
 
@@ -40,6 +40,7 @@ module.exports = {
       { text: 'API文档', link: 'https://mybatis.zuoyu.top/doc/index.html'},
       { text: '💖支持', link: '/pages/1b12ed/' },
       { text: '作者博客', link: 'https://zuoyu.top' },
+      { text: 'Gitee', link: 'https://gitee.com/zuoyuip/easy-mybatis' }
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
     logo: 'https://www.zuoyu.top/avatar', // 导航栏logo

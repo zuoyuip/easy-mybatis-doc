@@ -42,6 +42,8 @@ postList: none
   <a href="https://github.com/zuoyuip/easy-mybatis/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/zuoyuip/easy-mybatis" class="no-zoom"/></a>
   <a href="https://github.com/zuoyuip/easy-mybatis/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/zuoyuip/easy-mybatis" class="no-zoom"/></a>
   <a href="https://github.com/zuoyuip/easy-mybatis/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/zuoyuip/easy-mybatis" class="no-zoom"/></a>
+  <a href='https://gitee.com/zuoyuip/easy-mybatis/stargazers'><img src='https://gitee.com/zuoyuip/easy-mybatis/badge/star.svg?theme=white' alt='star' class="no-zoom"></img></a>
+  <a href='https://gitee.com/zuoyuip/easy-mybatis/members'><img src='https://gitee.com/zuoyuip/easy-mybatis/badge/fork.svg?theme=white' alt='fork' class="no-zoom"></img></a>
 </p>
 
 ## 安装
