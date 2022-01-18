@@ -95,6 +95,12 @@ module.exports = {
       }
     ],
     [
+      '@vuepress/google-analytics', //谷歌统计
+      {
+        'ga': 'G-04Y1L9N4RT' 
+      }
+    ],
+    [
       'thirdparty-search',
       {
         thirdparty: [
