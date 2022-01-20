@@ -13,7 +13,15 @@ module.exports = {
   head: [ // 注入到页面<head> 中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
     ['link', { rel: 'icon', href: '/img/favicon.ico' }], //favicons，资源放在public文件夹
     ['meta', { name: 'keywords', content: 'mybatis,Mybatis,easy-mybatis,EasyMybatis,SpringMybatis' }],
-    ['meta', { name: 'theme-color', content: '#11a8cd' }] // 移动浏览器主题颜色
+    ['meta', { name: 'theme-color', content: '#11a8cd' }], // 移动浏览器主题颜色
+    ['script', { async: 'async', src: 'https://www.googletagmanager.com/gtag/js?id=G-04Y1L9N4RT'}],
+    ['script', {}, `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-04Y1L9N4RT');
+    `
+    ]
   ],
 
   // 主题配置
@@ -94,12 +102,12 @@ module.exports = {
         hm: baiduCode
       }
     ],
-    [
-      '@vuepress/google-analytics', //谷歌统计
-      {
-        'ga': 'G-04Y1L9N4RT' 
-      }
-    ],
+    // [
+    //   '@vuepress/google-analytics', //谷歌统计
+    //   {
+    //     'ga': 'G-04Y1L9N4RT' 
+    //   }
+    // ],
     [
       'thirdparty-search',
       {
