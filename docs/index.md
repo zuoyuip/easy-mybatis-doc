@@ -142,7 +142,7 @@ implementation 'top.zuoyu.mybatis:easy-mybatis-spring-boot-starter:1.0.0'
 
 `俗槽雅嗅`是本人对一些事物看法的表达，偶尔也发布一些个人认为有深度的动画短片。
 
-<img src="https://www.zuoyu.top/upload/2021/12/wechat-327b52990e7f4c4281bde1b1faf0bcf6.png" alt="Wechat QRcode" width=360>
+<img src="https://oss.zuoyu.top/halo/ff68bf3dcf33e7c21af885f0a120ffee.png" alt="Wechat QRcode" width=360>
 <br/>
 <br/>
 <br/>
@@ -151,7 +151,7 @@ implementation 'top.zuoyu.mybatis:easy-mybatis-spring-boot-starter:1.0.0'
 
 `俗槽雅嗅`是本人对各种想法以文章的形式表达出来，偶尔也会写一些小说。
 
-<img src="https://www.zuoyu.top/upload/2021/12/wechat_pro-7a9ff8b234ce484891b7078a1ad24cb1.png" alt="Wechat QRcode" width=360>
+<img src="https://oss.zuoyu.top/halo/8f2eac24cb315d1783d5c6ad25345da6.png" alt="Wechat QRcode" width=360>
 <br/>
 <br/>
 <br/>
