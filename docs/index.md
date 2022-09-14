@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://www.zuoyu.top/avatar
+heroImage: https://oss.zuoyu.top//halo/logo.png
 heroText: easy-mybatis
 tagline: 一个把Mybatis操作简化至极致的框架
 actionText: 开始使用 →
